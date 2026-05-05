@@ -2,7 +2,7 @@
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
-Hey Sravani7172!
+Hey Sravani7172! Welcome to github
 
 Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
 
