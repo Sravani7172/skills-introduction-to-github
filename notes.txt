@@ -1,3 +1,8 @@
 learning Git commands
 
 Git is powerful
+
+Learning merge conflicts
+
+
+
