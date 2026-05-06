@@ -1,1 +1,3 @@
-Day 2 learning Git commands
+learning Git commands
+
+Git is powerful
