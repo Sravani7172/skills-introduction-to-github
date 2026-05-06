@@ -1,1 +1,4 @@
-Day 2 learning Git commands
+learning Git commands
+Learning merge conflicts
+
+
