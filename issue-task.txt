@@ -1,1 +1,3 @@
 Working on merge conflict practice
+merge conflicts resolved 
+working on linking PR to issue 
